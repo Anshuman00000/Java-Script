@@ -1,1 +1,1 @@
-Hii learning Java Script.
+Learning Java Script.
